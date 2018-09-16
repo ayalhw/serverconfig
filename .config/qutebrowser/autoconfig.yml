@@ -62,6 +62,14 @@ settings:
       <Enter>: <Return>
       <Shift-Enter>: <Return>
       <Shift-Return>: <Return>
+  colors.statusbar.command.bg:
+    global: '#2f599e'
+  colors.statusbar.normal.bg:
+    global: '#2f599e'
+  colors.tabs.selected.even.bg:
+    global: '#1c5dc9'
+  colors.tabs.selected.odd.bg:
+    global: '#1c5dc9'
   completion.show:
     global: auto
   fonts.hints:
@@ -71,4 +79,4 @@ settings:
   tabs.background:
     global: true
   tabs.new_position.unrelated:
-    global: last
+    global: next
