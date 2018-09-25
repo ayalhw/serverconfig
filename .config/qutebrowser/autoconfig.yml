@@ -80,3 +80,5 @@ settings:
     global: true
   tabs.new_position.unrelated:
     global: next
+  zoom.mouse_divider:
+    global: 0
