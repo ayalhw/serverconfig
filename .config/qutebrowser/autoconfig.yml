@@ -35,7 +35,6 @@ settings:
         <Ctrl+o>: back
         <Ctrl+r>: undo
         <Space>: fake-key <Space>
-        I: tab-close
         O: set-cmd-text :open {url:pretty}
         T: set-cmd-text :open -t -r {url:pretty}
         d: scroll-page 0 0.5
