@@ -71,6 +71,8 @@ settings:
     global: '#1c5dc9'
   completion.show:
     global: auto
+  content.geolocation:
+    global: false
   fonts.hints:
     global: bold 12pt monospace
   fonts.keyhint:
