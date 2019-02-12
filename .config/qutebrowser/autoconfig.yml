@@ -73,6 +73,8 @@ settings:
     global: auto
   content.geolocation:
     global: false
+  content.headers.user_agent:
+    global: null
   fonts.hints:
     global: bold 12pt monospace
   fonts.keyhint:
