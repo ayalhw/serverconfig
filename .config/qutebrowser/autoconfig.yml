@@ -75,6 +75,8 @@ settings:
     global: false
   content.headers.user_agent:
     global: null
+  content.host_blocking.enabled:
+    global: false
   fonts.hints:
     global: bold 12pt monospace
   fonts.keyhint:
