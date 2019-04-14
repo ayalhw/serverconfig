@@ -85,5 +85,7 @@ settings:
     global: true
   tabs.new_position.unrelated:
     global: next
+  tabs.select_on_remove:
+    global: last-used
   zoom.mouse_divider:
     global: 0
