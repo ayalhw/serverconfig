@@ -77,6 +77,8 @@ settings:
     global: null
   content.host_blocking.enabled:
     global: false
+  content.pdfjs:
+    global: false
   fonts.hints:
     global: bold 12pt monospace
   fonts.keyhint:
