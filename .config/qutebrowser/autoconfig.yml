@@ -79,6 +79,8 @@ settings:
     global: false
   content.pdfjs:
     global: false
+  content.ssl_strict:
+    global: false
   fonts.hints:
     global: bold 12pt monospace
   fonts.keyhint:
