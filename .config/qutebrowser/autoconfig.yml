@@ -76,7 +76,7 @@ settings:
   content.headers.user_agent:
     global: null
   content.host_blocking.enabled:
-    global: true
+    global: false
   content.pdfjs:
     global: false
   content.ssl_strict:
