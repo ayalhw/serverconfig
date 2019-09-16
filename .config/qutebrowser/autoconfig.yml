@@ -77,6 +77,9 @@ settings:
     global: null
   content.host_blocking.enabled:
     global: false
+  content.notifications:
+    https://blog.csdn.net: false
+    https://www.bilibili.com: false
   content.pdfjs:
     global: false
   content.ssl_strict:
@@ -85,6 +88,8 @@ settings:
     global: bold 12pt monospace
   fonts.keyhint:
     global: 12pt monospace
+  input.insert_mode.leave_on_load:
+    global: true
   tabs.background:
     global: true
   tabs.new_position.unrelated:
